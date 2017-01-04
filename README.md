@@ -1,0 +1,2 @@
+# Solar-Sytem-Simulation
+The original goal of this project was to study so called "slingshoting" methods used to redirect the path of space probes, most notably Voyager 1 and 2. I found it useful to create versatile solar system simulator, using data from NASA's jet propulsion lab for initial lovations and velocities.  I tried a few different methods, and compared their accuracy for simulating our solar system against data from real measurements.  The file report.pdf contains an in depth report of both how the program works and some results I obtaiend.
